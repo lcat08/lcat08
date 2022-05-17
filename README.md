@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lcat08
 - 👀 I’m interested by computers, new technologies, coding and more.
-- 🌱 I’m currently learning networks andsystems .to become an administrator...
+- 🌱 I’m currently learning networks and systems to become an administrator..
 - 💞️ I’m looking to collaborate with free and open-minded communities
 - 📫 reach me at :
      info@lechat.ovh
